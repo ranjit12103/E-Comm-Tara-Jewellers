@@ -2,8 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>
-      
+    <div className='font-extrabold bg-red-900'>
+      jhbjkhzsb
     </div>
   )
 }
